@@ -13,19 +13,19 @@ A 3D solar system visualization themed after the Turkish TikTok meme "Berhayat S
 
 ### Setup
 
-1. **Install dependencies:**
+1. **Install dependencies: (pnpm recommended)**
 
    ```bash
-   npm install
+   pnpm install
    ```
 
 2. **Run the development server:**
 
    ```bash
-   npm run dev
+   pnpm dev
    ```
 
 3. **Build for production:**
    ```bash
-   npm run build
+   pnpm run build
    ```
